@@ -1,37 +1,71 @@
-# Ayoub Alouhmy - Frontend Developer
+# Hi, I'm Ayoub 👋
 
-![Developer Banner](https://via.placeholder.com/1200x300?text=Frontend+Developer+Banner)
+### Full-Stack Web Developer 💻
 
-Hello! I'm *Ayoub Alouhmy, a frontend developer specializing in creating responsive and visually appealing websites using **HTML, **CSS, and **Bootstrap*. I focus on delivering smooth user experiences, particularly in e-commerce platforms, aiming to turn ideas into seamless digital interfaces.
+I'm a passionate Full-Stack Web Developer focused on building modern, responsive, and high-performance web applications.
 
----
-
-## 🛠 Technical Skills
-
-- *Languages*: HTML, CSS
-- *Frameworks*: Bootstrap
-- *Performance Optimization*: Responsive design, accessibility, and code optimization
-- *Tools*: Git, GitHub
-
-## 🌟 Portfolio Showcase
-
-![Project Showcase](https://via.placeholder.com/800x400?text=Project+Showcase)
-
-This is a sample of my work on creating user-friendly and dynamic e-commerce web applications, highlighting my approach to design and development.
+I enjoy turning ideas into clean, functional, and user-friendly digital experiences, from the frontend interface to the backend architecture and APIs.
 
 ---
 
-## 📞 Connect with Me
+## 🚀 About Me
 
-I'm always open to new opportunities, collaborations, or just a chat! Feel free to reach out:
-
-- [![Instagram Icon](https://img.icons8.com/ios-filled/50/instagram-new.png) Instagram](https://www.instagram.com/yourusername)
-- [![Facebook Icon](https://img.icons8.com/ios-filled/50/facebook.png) Facebook](https://www.facebook.com/yourusername)
-- [![WhatsApp Icon](https://img.icons8.com/ios-filled/50/whatsapp.png) WhatsApp](https://wa.me/yourphonenumber) 
-- [![LinkedIn Icon](https://img.icons8.com/ios-filled/50/linkedin.png) LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💻 Full-Stack Web Developer
+- ⚛️ Building modern interfaces with React
+- 🔥 Developing backend applications with Laravel
+- 🗄️ Working with databases and REST APIs
+- 🎨 Passionate about UI/UX and responsive design
+- 🚀 Interested in creating scalable and real-world applications
+- 📚 Always learning and improving my development skills
 
 ---
 
-![Profile Image](https://via.placeholder.com/150?text=Your+Profile+Image)
+## 🛠️ Technologies & Tools
 
-Let's build something amazing together!
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+
+### Backend
+- PHP
+- Laravel
+- REST API
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Axios
+- Docker
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Personal Portfolio
+A modern and responsive portfolio website showcasing my skills, projects, and experience.
+
+**Technologies:** React, Tailwind CSS, Laravel, REST API
+
+### 📦 Management Applications
+Web applications for managing products, orders, clients, subscriptions, and other business operations.
+
+**Technologies:** React, Laravel, MySQL
+
+---
+
+## 📊 What I Focus On
+
+```text
+Frontend Development    ████████████████████
+Backend Development     ██████████████████
+API Development         ██████████████████
+UI/UX                   ████████████████
+Database                ███████████████
+DevOps                  ████████████
