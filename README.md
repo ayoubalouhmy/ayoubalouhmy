@@ -21,21 +21,29 @@ Passionate about turning ideas into functional digital products that deliver rea
 ![HTML5](https://skillicons.dev/icons?i=html)  
 ![CSS3](https://skillicons.dev/icons?i=css)  
 ![JavaScript](https://skillicons.dev/icons?i=javascript)  
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
 ![React](https://skillicons.dev/icons?i=react)  
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
 
 ### Backend  
+![Python](https://skillicons.dev/icons?i=python)  
 ![PHP](https://skillicons.dev/icons?i=php)  
 ![Laravel](https://skillicons.dev/icons?i=laravel)  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![Express.js](https://skillicons.dev/icons?i=express)  
+![Java](https://skillicons.dev/icons?i=java)  
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=flat&logo=fastapi)  
 
 ### Database  
 ![MySQL](https://skillicons.dev/icons?i=mysql)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)  
 
 ### Tools & DevOps  
 ![Git](https://skillicons.dev/icons?i=git)  
 ![GitHub](https://skillicons.dev/icons?i=github)  
+![Vercel](https://skillicons.dev/icons?i=vercel)  
 ![Docker](https://skillicons.dev/icons?i=docker)  
+![NPM](https://skillicons.dev/icons?i=npm)  
 ![VS Code](https://skillicons.dev/icons?i=vscode)  
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)  
 
