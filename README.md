@@ -18,12 +18,9 @@ Passionate about turning ideas into functional digital products that deliver rea
 ## 🛠 Tech Stack  
 
 ### Frontend  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![CSS3](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=javascript)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
-![React](https://skillicons.dev/icons?i=react)  
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
+![HTML5](https://skillicons.dev/icons?i=html)  ![CSS3](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+![React](https://skillicons.dev/icons?i=react)  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
 
 ### Backend  
 ![Python](https://skillicons.dev/icons?i=python)  
